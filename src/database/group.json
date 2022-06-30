@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "groupname": "web daturlash",
+        "group_price": 700000
+    },
+    {
+        "id": 2,
+        "groupname": "web dizayn",
+        "group_price": 600000
+    },
+    {
+        "id": 3,
+        "groupname": "smm",
+        "group_price": 900000
+    }
+]
